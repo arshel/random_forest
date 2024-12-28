@@ -1,3 +1,1 @@
-# project_c
-# project_c
-# random_forest
+# random forest with smote for data imbalance
